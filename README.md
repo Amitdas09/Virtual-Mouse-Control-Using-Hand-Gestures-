@@ -32,6 +32,9 @@ pip install opencv-python mediapipe pyautogui
    ```
 3. Use hand gestures to move and control the cursor.
 
+## DEMO
+<img width="1918" height="987" alt="project-3" src="https://github.com/user-attachments/assets/deaa9d0b-230d-4cba-a824-f0b89c2ab984" />
+
 ## 🎯 Use Cases
 ✅ **Touchless Computer Interaction** – Control your system without a mouse.
 ✅ **Accessibility Enhancement** – Useful for individuals with physical disabilities.
