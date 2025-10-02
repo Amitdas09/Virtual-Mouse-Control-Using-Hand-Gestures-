@@ -24,7 +24,7 @@ Ensure you have Python installed, then install the required libraries:
 pip install opencv-python mediapipe pyautogui
 ```
 
-### 🏃 Running the Project
+### 🏃 Running the Project 
 1. Connect a webcam.
 2. Run the script:
    ```bash
